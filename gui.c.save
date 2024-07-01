@@ -1,0 +1,39 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include "gui.h"
+
+void displayMainMenu() {
+        system("cls");
+        printf("\n____________________________________________\n");
+        printf("Ingrese opcion: \n\n");
+        printf("0- Persistir datos y finalizar (no cerrar consola) \n");
+        printf("------PACIENTES------ \n");
+        printf("1- Alta de paciente \n");
+        printf("2- Mostrar pacientes \n");
+        printf("3- Modificar datos del paciente (TODO) \n");
+        printf("4- Dar de baja paciente (TODO) \n");
+        printf("____________________________________________\n\n");
+}
+
+void displayPacienteMenu() {
+   
+    printf("Op 0: Nombre y Apellido \n");
+    printf("Op 1: Edad \n");
+    printf("Op 2: Direccion \n");
+    printf("Op 3: Telefono \n");
+    printf("Ingrese campo a modificar: \n");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,79 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include "arbol_pacientes.h"
+#include "gui.h"
+
+#define PATH_ARCHIVOS "./archivos/"
+#define FILENAME_PACIENTES "pacientes.dat"
+
+
+typedef struct
+{
+    int finalizacionIndex;
+    int altaPacienteIndex;
+    int muestraPacienteIndex;
+    int modificaPacienteIndex;
+    int darDeBajaPacienteIndex;
+} stMenuIndexes;
+
+int main()
+{
+    FILE* arch;
+    ArbolPacientes* arbolPacientes;
+    stMenuIndexes menuIndexes;
+
+    /** Inicializaciones **/
+    menuIndexes.finalizacionIndex = 0;
+    menuIndexes.altaPacienteIndex = 1;
+    menuIndexes.muestraPacienteIndex = 2;
+    menuIndexes.modificaPacienteIndex = 3;
+    menuIndexes.darDeBajaPacienteIndex = 4;
+    arbolPacientes = inicializarArbol();
+    arch = fopen("./archivos/pacientes.dat", "rb");
+    arbolPacientes = cargarArboldeArchPacientes(arch, arbolPacientes);
+    fclose(arch);
+
+    /** Menu **/
+    int opcion = menuIndexes.finalizacionIndex;
+    do
+    {
+        displayMenu();
+        scanf("%i", &opcion);
+        if(opcion == menuIndexes.altaPacienteIndex)
+        {
+            arbolPacientes = altaDePaciente(arbolPacientes);
+        }
+        if(opcion == menuIndexes.muestraPacienteIndex)
+        {
+            muestraArbol(arbolPacientes);
+        }
+        if(opcion == menuIndexes.modificaPacienteIndex)
+        {
+            // TODO
+            // int dniABuscar = 448594969;
+         
+            modificarPaciente(arbolPacientes, dniABuscar);
+        }
+        if(opcion == menuIndexes.darDeBajaPacienteIndex)
+        {
+            //
+        }
+        system("pause");
+    }
+    while(opcion != menuIndexes.finalizacionIndex);
+
+    /** Guarda en archivos **/
+    arch = fopen("./archivos/pacientes.dat", "wb");
+    if(arch)
+    {
+        guardarPacientes(arch, arbolPacientes);
+        fclose(arch);
+    }
+
+    /** Libera Memoria (TODO) **/
+
+
+
+    return 0;
+}

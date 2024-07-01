@@ -1,0 +1,498 @@
+# depslib dependency file v1.0
+1700791285 source:c:\users\gc\desktop\laboratorio-clinico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"funciones.h"
+	"archivos.h"
+	"tda_lista_empleados.h"
+
+1698017882 c:\users\gc\desktop\laboratorio-clinico\arbol_pacientes.h
+
+1698018442 source:c:\users\gc\desktop\laboratorio-clinico\arbol_pacientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol_pacientes.h"
+
+1699977735 source:c:\users\usuario\desktop\laboratorio-clinico\arbol_pacientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol_pacientes.h"
+
+1699981684 c:\users\usuario\desktop\laboratorio-clinico\arbol_pacientes.h
+	"lista_practicas_por_ingreso.h"
+
+1699982349 source:c:\users\usuario\desktop\laboratorio-clinico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol_pacientes.h"
+	"gui.h"
+	"funciones.h"
+
+1698189273 source:c:\users\gc\desktop\master\laboratorio-clinico\arbol_pacientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol_pacientes.h"
+
+1698189261 c:\users\gc\desktop\master\laboratorio-clinico\arbol_pacientes.h
+
+1698192354 source:c:\users\gc\desktop\master\laboratorio-clinico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol_pacientes.h"
+	"menu.h"
+
+1698191810 c:\users\gc\desktop\master\laboratorio-clinico\menu.h
+
+1698201824 source:c:\users\gc\desktop\master\laboratorio-clinico\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1698191535 c:\users\gc\desktop\master\laboratorio-clinico\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1698202078 source:c:\users\gc\desktop\master\laboratorio-clinico\gui.c
+	<stdio.h>
+	<stdlib.h>
+	"gui.h"
+
+1698202072 c:\users\gc\desktop\master\laboratorio-clinico\gui.h
+
+1699981101 source:c:\users\usuario\desktop\laboratorio-clinico\gui.c
+	<stdio.h>
+	<stdlib.h>
+	"gui.h"
+
+1699977735 c:\users\usuario\desktop\laboratorio-clinico\gui.h
+
+1699977735 source:c:\users\usuario\desktop\laboratorio-clinico\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1699981001 c:\users\usuario\desktop\laboratorio-clinico\funciones.h
+	"arbol_pacientes.h"
+	"lista_practicas_por_ingreso.h"
+
+1699983508 c:\users\usuario\desktop\laboratorio-clinico\lista_practicas_por_ingreso.h
+
+1699982215 source:c:\users\usuario\desktop\laboratorio-clinico\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1699981032 source:c:\users\usuario\desktop\laboratorio-clinico\lista_practicas_por_ingreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista_practicas_por_ingreso.h"
+
+1700331111 source:c:\users\joako\desktop\proyecto clinico\laboratorio-clinico\arbol_pacientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol_pacientes.h"
+
+1700330481 c:\users\joako\desktop\proyecto clinico\laboratorio-clinico\arbol_pacientes.h
+	"lista_practicas_por_ingreso.h"
+
+1700330483 c:\users\joako\desktop\proyecto clinico\laboratorio-clinico\lista_practicas_por_ingreso.h
+
+1700073337 source:c:\users\joako\desktop\proyecto clinico\laboratorio-clinico\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700531038 source:c:\users\joako\desktop\proyecto clinico\laboratorio-clinico\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"funciones.h"
+
+1700516728 c:\users\joako\desktop\proyecto clinico\laboratorio-clinico\funciones.h
+	"tda_arbol_pacientes.h"
+	"tda_lista_practicas.h"
+	"tda_lista_practicas_por_ingreso.h"
+	"tda_lista_ingresos.h"
+	"tda_lista_empleados.h"
+
+1700180094 source:c:\users\joako\desktop\proyecto clinico\laboratorio-clinico\gui.c
+	<stdio.h>
+	<stdlib.h>
+	"gui.h"
+
+1700419739 c:\users\joako\desktop\proyecto clinico\laboratorio-clinico\gui.h
+
+1700330507 source:c:\users\joako\desktop\proyecto clinico\laboratorio-clinico\lista_practicas_por_ingreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista_practicas_por_ingreso.h"
+	"arbol_pacientes.h"
+
+1700531996 source:c:\users\joako\desktop\proyecto clinico\laboratorio-clinico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"funciones.h"
+	"archivos.h"
+	"tda_lista_empleados.h"
+
+1700333458 source:c:\users\gc\desktop\master2\laboratorio-clinico\arbol_pacientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol_pacientes.h"
+
+1700391645 c:\users\gc\desktop\master2\laboratorio-clinico\arbol_pacientes.h
+	"lista_practicas_por_ingreso.h"
+
+1700392115 c:\users\gc\desktop\master2\laboratorio-clinico\lista_practicas_por_ingreso.h
+
+1700316413 source:c:\users\gc\desktop\master2\laboratorio-clinico\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1700430948 source:c:\users\gc\desktop\master2\laboratorio-clinico\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1700430948 c:\users\gc\desktop\master2\laboratorio-clinico\funciones.h
+	"tda_arbol_pacientes.h"
+	"tda_lista_practicas.h"
+	"tda_lista_practicas_por_ingreso.h"
+	"tda_lista_ingresos.h"
+	"tda_lista_empleados.h"
+
+1700389443 source:c:\users\gc\desktop\master2\laboratorio-clinico\gui.c
+	<stdio.h>
+	<stdlib.h>
+	"gui.h"
+
+1700316413 c:\users\gc\desktop\master2\laboratorio-clinico\gui.h
+
+1700431611 source:c:\users\gc\desktop\master2\laboratorio-clinico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"funciones.h"
+	"archivos.h"
+	"tda_lista_empleados.h"
+
+1700333516 source:c:\users\gc\desktop\master2\laboratorio-clinico\lista_practicas_por_ingreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista_practicas_por_ingreso.h"
+	"arbol_pacientes.h"
+
+1700348014 source:c:\users\gc\desktop\master2\laboratorio-clinico\practicas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tda_practicas.h"
+
+1700344870 c:\users\gc\desktop\master2\laboratorio-clinico\tda_practicas.h
+
+1700430948 source:c:\users\gc\desktop\master2\laboratorio-clinico\archivos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"archivos.h"
+
+1700430921 c:\users\gc\desktop\master2\laboratorio-clinico\archivos.h
+	"funciones.h"
+
+1700406914 c:\users\gc\desktop\master2\laboratorio-clinico\tda_arbol_pacientes.h
+	"tda_lista_ingresos.h"
+
+1700430948 c:\users\gc\desktop\master2\laboratorio-clinico\tda_lista_practicas.h
+
+1700430948 c:\users\gc\desktop\master2\laboratorio-clinico\tda_lista_practicas_por_ingreso.h
+
+1700430948 source:c:\users\gc\desktop\master2\laboratorio-clinico\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1700430921 source:c:\users\gc\desktop\master2\laboratorio-clinico\tda_lista_empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tda_lista_empleados.h"
+
+1700430948 source:c:\users\gc\desktop\master2\laboratorio-clinico\tda_lista_ingresos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tda_lista_ingresos.h"
+
+1700430948 source:c:\users\gc\desktop\master2\laboratorio-clinico\tda_lista_practicas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tda_lista_practicas.h"
+
+1700430948 source:c:\users\gc\desktop\master2\laboratorio-clinico\tda_lista_practicas_por_ingreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tda_lista_practicas_por_ingreso.h"
+
+1700406914 c:\users\gc\desktop\master2\laboratorio-clinico\tda_lista_ingresos.h
+	"tda_lista_practicas_por_ingreso.h"
+
+1700431412 c:\users\gc\desktop\master2\laboratorio-clinico\menu.h
+
+1700430948 source:c:\users\gc\desktop\master2\laboratorio-clinico\tda_arbol_pacientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tda_arbol_pacientes.h"
+
+1700430921 c:\users\gc\desktop\master2\laboratorio-clinico\tda_lista_empleados.h
+
+1700428860 source:c:\users\ignacio.dnt\laboratorio-clinico\archivos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"archivos.h"
+
+1700429305 c:\users\ignacio.dnt\laboratorio-clinico\archivos.h
+	"funciones.h"
+
+1700418916 c:\users\ignacio.dnt\laboratorio-clinico\funciones.h
+	"tda_arbol_pacientes.h"
+	"tda_lista_practicas.h"
+	"tda_lista_practicas_por_ingreso.h"
+	"tda_lista_ingresos.h"
+	"tda_lista_empleados.h"
+
+1700418916 c:\users\ignacio.dnt\laboratorio-clinico\tda_arbol_pacientes.h
+	"tda_lista_ingresos.h"
+
+1700418916 c:\users\ignacio.dnt\laboratorio-clinico\tda_lista_ingresos.h
+	"tda_lista_practicas_por_ingreso.h"
+
+1700418916 c:\users\ignacio.dnt\laboratorio-clinico\tda_lista_practicas_por_ingreso.h
+
+1700418916 c:\users\ignacio.dnt\laboratorio-clinico\tda_lista_practicas.h
+
+1700429084 c:\users\ignacio.dnt\laboratorio-clinico\tda_lista_empleados.h
+
+1700418916 source:c:\users\ignacio.dnt\laboratorio-clinico\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1700427837 source:c:\users\ignacio.dnt\laboratorio-clinico\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"gui.h"
+
+1700418916 c:\users\ignacio.dnt\laboratorio-clinico\gui.h
+
+1700418916 source:c:\users\ignacio.dnt\laboratorio-clinico\tda_arbol_pacientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tda_arbol_pacientes.h"
+
+1700429503 source:c:\users\ignacio.dnt\laboratorio-clinico\tda_lista_empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tda_lista_empleados.h"
+
+1700418916 source:c:\users\ignacio.dnt\laboratorio-clinico\tda_lista_ingresos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tda_lista_ingresos.h"
+
+1700418916 source:c:\users\ignacio.dnt\laboratorio-clinico\tda_lista_practicas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tda_lista_practicas.h"
+
+1700418916 source:c:\users\ignacio.dnt\laboratorio-clinico\tda_lista_practicas_por_ingreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tda_lista_practicas_por_ingreso.h"
+
+1700429258 source:c:\users\ignacio.dnt\laboratorio-clinico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"funciones.h"
+	"archivos.h"
+	"tda_lista_empleados.h"
+
+1700427837 c:\users\ignacio.dnt\laboratorio-clinico\menu.h
+
+1700428331 source:c:\users\ignacio.dnt\laboratorio-clinico\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleados.h"
+	"arbol_pacientes.h"
+
+1700429003 c:\users\ignacio.dnt\laboratorio-clinico\empleados.h
+
+1700418916 c:\users\ignacio.dnt\laboratorio-clinico\arbol_pacientes.h
+	"lista_practicas_por_ingreso.h"
+
+1700418916 c:\users\ignacio.dnt\laboratorio-clinico\lista_practicas_por_ingreso.h
+
+1700530034 source:c:\users\joako\desktop\proyecto clinico\laboratorio-clinico\archivos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"archivos.h"
+
+1700432598 c:\users\joako\desktop\proyecto clinico\laboratorio-clinico\archivos.h
+	"funciones.h"
+
+1700527051 c:\users\joako\desktop\proyecto clinico\laboratorio-clinico\tda_arbol_pacientes.h
+	"tda_lista_ingresos.h"
+
+1700530079 c:\users\joako\desktop\proyecto clinico\laboratorio-clinico\tda_lista_ingresos.h
+	"tda_lista_practicas_por_ingreso.h"
+
+1700515172 c:\users\joako\desktop\proyecto clinico\laboratorio-clinico\tda_lista_practicas_por_ingreso.h
+
+1700519234 c:\users\joako\desktop\proyecto clinico\laboratorio-clinico\tda_lista_practicas.h
+
+1700487889 c:\users\joako\desktop\proyecto clinico\laboratorio-clinico\tda_lista_empleados.h
+
+1700531935 c:\users\joako\desktop\proyecto clinico\laboratorio-clinico\menu.h
+	"tda_lista_empleados.h"
+
+1700531965 source:c:\users\joako\desktop\proyecto clinico\laboratorio-clinico\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1700527508 source:c:\users\joako\desktop\proyecto clinico\laboratorio-clinico\tda_arbol_pacientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tda_arbol_pacientes.h"
+
+1700526115 source:c:\users\joako\desktop\proyecto clinico\laboratorio-clinico\tda_lista_empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tda_lista_empleados.h"
+
+1700530818 source:c:\users\joako\desktop\proyecto clinico\laboratorio-clinico\tda_lista_ingresos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tda_lista_ingresos.h"
+
+1700519683 source:c:\users\joako\desktop\proyecto clinico\laboratorio-clinico\tda_lista_practicas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tda_lista_practicas.h"
+
+1700515172 source:c:\users\joako\desktop\proyecto clinico\laboratorio-clinico\tda_lista_practicas_por_ingreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tda_lista_practicas_por_ingreso.h"
+
+1700775376 source:c:\users\gc\desktop\laboratorio-clinico\archivos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"archivos.h"
+
+1700775376 c:\users\gc\desktop\laboratorio-clinico\archivos.h
+	"funciones.h"
+
+1700775376 c:\users\gc\desktop\laboratorio-clinico\funciones.h
+	"tda_arbol_pacientes.h"
+	"tda_lista_practicas.h"
+	"tda_lista_practicas_por_ingreso.h"
+	"tda_lista_ingresos.h"
+	"tda_lista_empleados.h"
+
+1700775376 c:\users\gc\desktop\laboratorio-clinico\tda_arbol_pacientes.h
+	"tda_lista_ingresos.h"
+
+1700775376 c:\users\gc\desktop\laboratorio-clinico\tda_lista_ingresos.h
+	"tda_lista_practicas_por_ingreso.h"
+
+1700775376 c:\users\gc\desktop\laboratorio-clinico\tda_lista_practicas_por_ingreso.h
+
+1700775376 c:\users\gc\desktop\laboratorio-clinico\tda_lista_practicas.h
+
+1700775376 c:\users\gc\desktop\laboratorio-clinico\tda_lista_empleados.h
+
+1700775376 source:c:\users\gc\desktop\laboratorio-clinico\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"funciones.h"
+
+1700791116 source:c:\users\gc\desktop\laboratorio-clinico\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1700775376 c:\users\gc\desktop\laboratorio-clinico\menu.h
+	"tda_lista_empleados.h"
+
+1700791742 source:c:\users\gc\desktop\laboratorio-clinico\tda_arbol_pacientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tda_arbol_pacientes.h"
+
+1700775376 source:c:\users\gc\desktop\laboratorio-clinico\tda_lista_empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tda_lista_empleados.h"
+
+1700775376 source:c:\users\gc\desktop\laboratorio-clinico\tda_lista_ingresos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tda_lista_ingresos.h"
+
+1700775376 source:c:\users\gc\desktop\laboratorio-clinico\tda_lista_practicas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tda_lista_practicas.h"
+
+1700775376 source:c:\users\gc\desktop\laboratorio-clinico\tda_lista_practicas_por_ingreso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tda_lista_practicas_por_ingreso.h"
+
